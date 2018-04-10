@@ -1,0 +1,10 @@
+{
+  "name": "wordpress-plugin",
+  "description": "Custom WordPress Plugin with Modules",
+  "license": "GPL-2.0",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0",
+    "dnaber/requisite": "1.0"
+  }
+}
