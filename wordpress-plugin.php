@@ -24,4 +24,4 @@ require_once( ModuleBasedWordPressPlugin_PLUGIN_BASEDIR . 'inc/Factory/autoloade
 require_once( ModuleBasedWordPressPlugin_PLUGIN_BASEDIR . 'inc/Factory/autoloader.php' );
 require_once( ModuleBasedWordPressPlugin_PLUGIN_BASEDIR . 'functions.php' );
 
-(new Factory\Autoloader())::create();
+(new Factoryg\Autoloader())::create();
